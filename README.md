@@ -25,11 +25,11 @@
 * `apt-get install python git `
 * `git clone https://github.com/Phantom-19/Wordpress.git`
 * `cd Wordpress`
-## ` Execution > ` `python3 word`
+## ` Execution > ` `python3 word.py`
 
 ##  `Commande unique de Wordpress`:
 ```
-apt update ; apt-get install python git ; git clone https://github.com/Phantom-19/Wordpress.git ; cd Wordpress ; python3 word  
+apt update ; apt-get install python git ; git clone https://github.com/Phantom-19/Wordpress.git ; cd Wordpress ; python3 word.py  
 ```
 ##  `Cautions`:
 ```
